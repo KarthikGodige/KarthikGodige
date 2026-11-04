@@ -1,5 +1,8 @@
 # Hi, I'm Karthik Godige 👋
-
+<p align="center">
+  <img src="./profile.jpg" width="180"
+       alt="Karthik Godige" />
+</p>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Computer Science & Design Student</h3>
 
 <p align="center">
