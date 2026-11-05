@@ -23,12 +23,15 @@
 
 <br/><br/>
 
-<!-- Metric Badges -->
+<!-- Hero Badges including Portfolio -->
 <a href="https://github.com/karthikgodige">
   <img src="https://img.shields.io/github/followers/karthikgodige?style=for-the-badge&logo=github&labelColor=0b0f1c&color=4a8eff&logoColor=white" alt="GitHub followers" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0b0f1c&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&labelColor=0b0f1c&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:karthikgodige7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0b0f1c&logoColor=white" alt="Email" />
@@ -106,64 +109,57 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Mission Deployments (Featured Work)
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Web Portal
-End-to-end web system built with modern JavaScript and robust server-side routing.
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-⚡ Secure session management, RESTful architecture & responsive UI
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Enterprise Management System
-Robust desktop/server management application utilizing object-oriented principles.
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-
-💼 High-reliability business logic with complete relational database support
-
-</td>
+<th>Project</th>
+<th>Class</th>
+<th>Tech Architecture</th>
+<th>Status</th>
+<th>Gateway</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📊 Real-Time CRUD Platform
-Dynamic data management platform with live data synchronization and schema flexibility.
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-🚀 Flexible NoSQL persistence with intuitive frontend interaction
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ High-Performance Algorithms Engine
-Core algorithmic solutions and data structure implementations built for raw speed.
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-
-⚡ Optimized memory allocation and high computational throughput
-
-</td>
+<td><b>🌐 Full Stack Web Portal</b></td>
+<td>Web Platform</td>
+<td><code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>JavaScript</code></td>
+<td align="center"><code>LIVE 🟢</code></td>
+<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+</tr>
+<tr>
+<td><b>⚡ Enterprise Management System</b></td>
+<td>Core Architecture</td>
+<td><code>Java</code> <code>MySQL</code> <code>SQL</code> <code>OOP</code></td>
+<td align="center"><code>OPERATIONAL 🟢</code></td>
+<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+</tr>
+<tr>
+<td><b>📊 Real-Time CRUD Platform</b></td>
+<td>NoSQL Service</td>
+<td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>HTML/CSS</code></td>
+<td align="center"><code>LIVE 🟢</code></td>
+<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+</tr>
+<tr>
+<td><b>🛡️ High-Performance Algorithms Engine</b></td>
+<td>Systems & Math</td>
+<td><code>C++</code> <code>C#</code> <code>.NET</code></td>
+<td align="center"><code>IN LAB 🟡</code></td>
+<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
 </tr>
 </table>
+
+<br/>
+
+## 🐍 Contribution Grid Infiltration (Live Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
@@ -219,6 +215,7 @@ Core algorithmic solutions and data structure implementations built for raw spee
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1c&color=4a8eff)](https://github.com/karthikgodige)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1c)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f1c)](https://YOUR_PORTFOLIO_URL.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1c)](mailto:karthikgodige7@gmail.com)
 
 </div>
