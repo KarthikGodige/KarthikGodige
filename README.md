@@ -1,175 +1,234 @@
+<!-- ============================================================
+     GITHUB PROFILE README | KARTHIK GODIGE
+     Full Stack Developer • Software Engineer
+     ============================================================ -->
+
 <div align="center">
 
-  <!-- ==================== MISSION CONTROL BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,16,29,39&height=220&section=header&text=%E2%9A%A1%20KARTHIK%20GODIGE&fontSize=42&fontAlignY=36&desc=%E2%80%94%E2%80%94%20FULL-STACK%20SYSTEMS%20ARCHITECT%20%26%20SOFTWARE%20ENGINEER%20%E2%80%94%E2%80%94&descAlignY=60&descAlign=50" alt="Cyber Header Banner" width="100%" />
+<!-- Wavy Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1c,50:4a8eff,100:7a5cff&height=220&section=header&text=Karthik%20Godige&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-  <!-- Dynamic Typing SVG HUD -->
-  <a href="https://github.com/karthikgodige">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E_Architecting+high-throughput+distributed+systems;%3E_Writing+clean%2C+scalable%2C+battle-tested+code;%3E_Full+Stack%3A+TypeScript+%2B+React+%2B+Node.js+%2B+Python;%3E_Turning+complex+challenges+into+elegant+APIs" alt="Terminal Typing" />
-  </a>
+<br/>
 
-  <br/><br/>
+<!-- ==================== AVATAR SPOTLIGHT ==================== -->
+<!-- High-impact circular avatar with a neon blue border (#4A8EFF) matching the theme -->
+<a href="https://github.com/karthikgodige">
+  <img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/karthikgodige/karthikgodige/main/profile.jpg&w=170&h=170&fit=cover&mask=circle&border=4,4a8eff" alt="Karthik Godige" width="170" height="170" />
+</a>
 
-  <!-- Mission Telemetry / Live Status Pills -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%F0%9F%9F%A2-00FF66?style=for-the-badge&labelColor=0d1117" alt="Status Operational" />
-    <img src="https://img.shields.io/badge/MODE-BUILDING%20FOR%20SCALE%20%E2%9A%A1-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Building For Scale" />
-    <img src="https://img.shields.io/badge/COLLAB-OPEN%20FOR%20PROJECTS%20%F0%9F%A4%9D-BD00FF?style=for-the-badge&labelColor=0d1117" alt="Open for Collab" />
-    <img src="https://komarev.com/ghpvc/?username=karthikgodige&label=TELEMETRY%20VISITS&color=7928CA&style=for-the-badge&labelColor=0d1117" alt="Views" />
-  </p>
+<br/><br/>
 
-  <p align="center">
-    <a href="mailto:karthikgodige7@gmail.com">
-      <img src="https://img.shields.io/badge/TRANSMIT_EMAIL-karthikgodige7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/NETWORK-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/karthikgodige?tab=repositories">
-      <img src="https://img.shields.io/badge/ARTIFACTS-GitHub_Repos-238636?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-    </a>
-  </p>
+<!-- Dynamic Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=4A8EFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%E2%9A%A1;Building+scalable+web+systems+%F0%9F%9A%80;Java+%7C+C%2B%2B+%7C+C%23+%7C+JavaScript;Node.js+%7C+Express+%7C+Databases+%F0%9F%92%BE;Turning+ideas+into+production+code+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Metric Badges -->
+<a href="https://github.com/karthikgodige">
+  <img src="https://img.shields.io/github/followers/karthikgodige?style=for-the-badge&logo=github&labelColor=0b0f1c&color=4a8eff&logoColor=white" alt="GitHub followers" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0b0f1c&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:karthikgodige7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0b0f1c&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=karthikgodige&label=Profile%20Views&color=4a8eff&labelColor=0b0f1c&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-### 🖥️ `~# system_diagnostic --verbose`
+## 👋 About Me
 
-```yaml
-# ==============================================================================
-# DEVELOPER PROFILE TELEMETRY
-# ==============================================================================
-Operator        : Karthik Godige
-Title           : Full Stack Engineer & Cloud Developer
-Current Mission : Building distributed backend pipelines & responsive modern UIs
-Core Competency : Scalable APIs, Microservices, Event-Driven Architecture, State Mgmt
-Code Protocol   : SOLID Principles | TDD | High Observability | Zero Tech-Debt Bias
-Target Stack    : TypeScript, Next.js, Node.js, FastAPI, PostgreSQL, Docker, AWS
-Passions        : Open-Source, Performance Optimization, Cloud Infrastructure, AI tooling
-```
+- 💻 Passionate **Full Stack Developer** focused on building fast, scalable, and responsive web applications
+- ☕ Strong foundation in object-oriented programming with **Java**, **C++**, and **C# / .NET**
+- 🌐 Experienced in creating RESTful APIs and backend services with **Node.js** and **Express.js**
+- 🗄️ Proficient in designing robust database architectures with **PostgreSQL**, **MySQL**, and **MongoDB**
+- 🛠️ Dedicated to writing clean, maintainable code with strict version control using **Git** & **GitHub**
+- ⚡ Fun fact: I enjoy turning complex system logic into elegant, high-performance software
 
----
+<br/>
 
-### 🏆 GitHub Milestones & Trophies
+## 🧰 Tech Stack
+
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Programming Languages
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & Runtimes
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🗄️ Databases
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+### 🔧 Version Control & Tools
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Web Portal
+End-to-end web system built with modern JavaScript and robust server-side routing.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+⚡ Secure session management, RESTful architecture & responsive UI
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Enterprise Management System
+Robust desktop/server management application utilizing object-oriented principles.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+
+💼 High-reliability business logic with complete relational database support
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Real-Time CRUD Platform
+Dynamic data management platform with live data synchronization and schema flexibility.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+🚀 Flexible NoSQL persistence with intuitive frontend interaction
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ High-Performance Algorithms Engine
+Core algorithmic solutions and data structure implementations built for raw speed.
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+
+⚡ Optimized memory allocation and high computational throughput
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Academic Journey
+
+<table align="center" width="100%">
+<tr>
+<th>Year</th>
+<th>Milestone</th>
+<th>Institution</th>
+<th>Focus / Status</th>
+</tr>
+<tr>
+<td align="center">2026</td>
+<td>🎓 Bachelor of Technology / Engineering</td>
+<td>Your College Name</td>
+<td align="center">Computer Science / IT</td>
+</tr>
+<tr>
+<td align="center">2024</td>
+<td>⭐ Higher Secondary / Diploma</td>
+<td>Your School Name</td>
+<td align="center">Science & Mathematics</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/karthikgodige">
-    <img src="https://github-profile-trophy.vercel.app/?username=karthikgodige&theme=onedark&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikgodige&show_icons=true&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgodige&layout=compact&theme=radical&bg_color=0b0f1c&title_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false" width="48%" />
 </div>
 
----
-
-### 📊 Mission Telemetry & Performance Dashboard
+<br/>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/karthikgodige">
-          <img src="https://github-readme-stats.vercel.app/api?username=karthikgodige&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/karthikgodige">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgodige&theme=algolia&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/karthikgodige">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgodige&layout=donut&theme=algolia&hide_border=true" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://leetcode.com/u/karthikgodige/">
-          <img src="https://leetcard.jacoblin.cool/karthikgodige?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12" width="80%" />
 </div>
 
----
+<br/>
 
-### 📈 Activity Vector & Cadence
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgodige&theme=react-dark&bg_color=0b0f1c&color=4a8eff&line=4a8eff&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/karthikgodige">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgodige&theme=react-dark&hide_border=true&area=true&custom_title=30-Day%20Deployment%20%26%20Contribution%20Frequency" alt="Contribution Graph" width="98%" />
-  </a>
-</p>
+<br/>
 
----
-
-### 🛠️ Hardware & Software Arsenal
+## 🤝 Connect With Me
 
 <div align="center">
 
-| Domain | Armory |
-| :--- | :--- |
-| **Languages & Runtimes** | <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,html,css&perline=6" alt="Languages" /> |
-| **Frontend Frameworks & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,sass&perline=6" alt="Frontend" /> |
-| **Backend & Microservices** | <img src="https://skillicons.dev/icons?i=express,fastapi,graphql,nestjs,django&perline=6" alt="Backend" /> |
-| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&perline=6" alt="Databases" /> |
-| **Cloud, DevOps & Infra** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,linux&perline=7" alt="Cloud & DevOps" /> |
-| **Testing & Productivity** | <img src="https://skillicons.dev/icons?i=jest,postman,vscode,figma,bash&perline=6" alt="Tools" /> |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1c&color=4a8eff)](https://github.com/karthikgodige)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1c)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1c)](mailto:karthikgodige7@gmail.com)
 
 </div>
 
----
-
-### 🚀 Mission Deployments (Featured Work)
-
-| Project | Class | Tech Architecture | Status | Gateway |
-| :--- | :--- | :--- | :---: | :--- |
-| **🛰️ Nexus Cloud Engine** | Distributed Cloud | `Go` `Docker` `Redis` `gRPC` | `LIVE 🟢` | [Repo ↗](https://github.com/karthikgodige) • [Demo ↗](https://example.com) |
-| **⚡ Quantum Flow UI** | Analytics Dashboard | `Next.js 14` `Tailwind` `Prisma` | `LIVE 🟢` | [Repo ↗](https://github.com/karthikgodige) • [Demo ↗](https://example.com) |
-| **🛡️ Sentinel Auth Gateway**| Security Service | `Node.js` `JWT` `PostgreSQL` | `OPERATIONAL 🟢` | [Repo ↗](https://github.com/karthikgodige) • [Demo ↗](https://example.com) |
-| **🤖 Autonomous Agent Swarm**| GenAI Workflow | `Python` `LangChain` `Gemini API` | `IN LAB 🟡` | [Repo ↗](https://github.com/karthikgodige) • [Demo ↗](https://example.com) |
-
----
-
-### 🐍 Contribution Grid Infiltration (Live Snake)
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/karthikgodige/karthikgodige/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a5cff,50:4a8eff,100:0b0f1c&height=120&section=footer&animation=fadeIn" width="100%" />
 
----
+  ### ⚡ *"Building reliable, high-performance software with clean code and robust systems"* ⚡
 
-### 📡 Establish Uplink / Transmit Channel
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:karthikgodige7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://yourportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Site-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,16,29,39&height=60&section=footer" width="100%" />
+  **Crafted with care by Karthik Godige**
 </div>
