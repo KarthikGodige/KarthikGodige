@@ -2,6 +2,9 @@
 <p align="center">
   <img src="./banner.png" alt="Karthik Godige - Developer Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=FF8A3D&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Science+%26+Design+Student;Building+Real+World+Projects" />
+</p>
 
 <h1 align="center">Hi, I'm Karthik Godige 👋</h1>
 
