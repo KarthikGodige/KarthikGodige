@@ -191,20 +191,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikgodige&show_icons=true&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgodige&layout=compact&theme=radical&bg_color=0b0f1c&title_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=karthikgodige&show_icons=true&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&v=2" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=karthikgodige&layout=compact&theme=radical&bg_color=0b0f1c&title_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12&hide_border=false&v=2" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12" width="80%" />
+  <img src="https://streak-stats.vercel.app/?user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12&v=2" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgodige&theme=react-dark&bg_color=0b0f1c&color=4a8eff&line=4a8eff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://activity-graph.vercel.app/graph?username=karthikgodige&theme=react-dark&bg_color=0b0f1c&color=4a8eff&line=4a8eff&point=ffffff&area=true&hide_border=true&v=2" width="95%" />
 </div>
 
 <br/>
