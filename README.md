@@ -122,7 +122,7 @@
 <td align="center">2026</td>
 <td>🎓 Bachelor of Technology</td>
 <td>Vardhaman College of Engineering</td>
-<td align="center">Computer Science and Data Science / IT</td>
+<td align="center">Computer Science and Data Science </td>
 </tr>
 <tr>
 <td align="center">2024</td>
