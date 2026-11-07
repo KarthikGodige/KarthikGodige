@@ -30,8 +30,8 @@
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0b0f1c&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://YOUR_PORTFOLIO_URL.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&labelColor=0b0f1c&logoColor=white" alt="Portfolio" />
+<a href="https://fullstack-frontend-one-liart.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_App-Visit-00C853?style=for-the-badge&logo=vercel&labelColor=0b0f1c&logoColor=white" alt="Live App" />
 </a>
 <a href="mailto:karthikgodige7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0b0f1c&logoColor=white" alt="Email" />
@@ -109,43 +109,81 @@
 
 <br/>
 
-## 🚀 Mission Deployments (Featured Work)
+## 🚀 Featured Repositories & Deployments
 
+<!-- Pinned Repository Spotlight Cards -->
+<div align="center">
+  <a href="https://github.com/KarthikGodige/Face-Recognition-Attendance-System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KarthikGodige&repo=Face-Recognition-Attendance-System&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12" width="48%" />
+  </a>
+  <a href="https://github.com/KarthikGodige/fullstack-frontend">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KarthikGodige&repo=fullstack-frontend&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/KarthikGodige/Smart_Retail_Data_Mining">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KarthikGodige&repo=Smart_Retail_Data_Mining&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12" width="48%" />
+  </a>
+  <a href="https://github.com/KarthikGodige/Personalized_Book_Recommendation_System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KarthikGodige&repo=Personalized_Book_Recommendation_System&theme=radical&bg_color=0b0f1c&title_color=4a8eff&icon_color=4a8eff&text_color=b0c4e8&border_color=4a8eff&border_radius=12" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Comprehensive Repositories Matrix -->
 <table align="center" width="100%">
 <tr>
 <th>Project</th>
-<th>Class</th>
+<th>Domain / Class</th>
 <th>Tech Architecture</th>
 <th>Status</th>
 <th>Gateway</th>
 </tr>
 <tr>
-<td><b>🌐 Full Stack Web Portal</b></td>
-<td>Web Platform</td>
-<td><code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>JavaScript</code></td>
-<td align="center"><code>LIVE 🟢</code></td>
-<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
-</tr>
-<tr>
-<td><b>⚡ Enterprise Management System</b></td>
-<td>Core Architecture</td>
-<td><code>Java</code> <code>MySQL</code> <code>SQL</code> <code>OOP</code></td>
+<td><b>🤖 Face Recognition Attendance</b></td>
+<td>Computer Vision & AI</td>
+<td><code>Python</code> <code>OpenCV</code> <code>Tkinter</code> <code>MySQL</code> <code>LBPH</code></td>
 <td align="center"><code>OPERATIONAL 🟢</code></td>
-<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+<td><a href="https://github.com/KarthikGodige/Face-Recognition-Attendance-System">Source ↗</a></td>
 </tr>
 <tr>
-<td><b>📊 Real-Time CRUD Platform</b></td>
-<td>NoSQL Service</td>
-<td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>HTML/CSS</code></td>
+<td><b>🌐 Full Stack MERN Platform</b></td>
+<td>Web Application</td>
+<td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code></td>
 <td align="center"><code>LIVE 🟢</code></td>
-<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+<td><a href="https://github.com/KarthikGodige/fullstack-frontend">Source ↗</a> • <a href="https://fullstack-frontend-one-liart.vercel.app">Demo ↗</a></td>
 </tr>
 <tr>
-<td><b>🛡️ High-Performance Algorithms Engine</b></td>
-<td>Systems & Math</td>
-<td><code>C++</code> <code>C#</code> <code>.NET</code></td>
-<td align="center"><code>IN LAB 🟡</code></td>
-<td><a href="https://github.com/karthikgodige">Source ↗</a> • <a href="https://YOUR_PORTFOLIO_URL.vercel.app">Demo ↗</a></td>
+<td><b>📊 Smart Retail Data Mining</b></td>
+<td>Analytics & ML</td>
+<td><code>Python</code> <code>Streamlit</code> <code>RFM</code> <code>K-Means</code> <code>Apriori</code></td>
+<td align="center"><code>LIVE 🟢</code></td>
+<td><a href="https://github.com/KarthikGodige/Smart_Retail_Data_Mining">Source ↗</a></td>
+</tr>
+<tr>
+<td><b>📚 Book Recommendation System</b></td>
+<td>NLP & Recommender</td>
+<td><code>Python</code> <code>NLP</code> <code>TF-IDF</code> <code>Cosine Similarity</code></td>
+<td align="center"><code>OPERATIONAL 🟢</code></td>
+<td><a href="https://github.com/KarthikGodige/Personalized_Book_Recommendation_System">Source ↗</a></td>
+</tr>
+<tr>
+<td><b>💻 Developer Portfolio</b></td>
+<td>Portfolio UI</td>
+<td><code>React</code> <code>JavaScript</code> <code>CSS3</code></td>
+<td align="center"><code>LIVE 🟢</code></td>
+<td><a href="https://github.com/KarthikGodige/karthik-portfolio">Source ↗</a></td>
+</tr>
+<tr>
+<td><b>⚡ Interactive Quiz System</b></td>
+<td>Core Software</td>
+<td><code>Java</code> <code>OOP</code> <code>Data Structures</code></td>
+<td align="center"><code>STABLE 🟢</code></td>
+<td><a href="https://github.com/KarthikGodige/QUIZ-SYSTEM">Source ↗</a></td>
 </tr>
 </table>
 
@@ -215,7 +253,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1c&color=4a8eff)](https://github.com/karthikgodige)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1c)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f1c)](https://YOUR_PORTFOLIO_URL.vercel.app)
+[![Live App](https://img.shields.io/badge/Live_App-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f1c)](https://fullstack-frontend-one-liart.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1c)](mailto:karthikgodige7@gmail.com)
 
 </div>
