@@ -120,15 +120,15 @@
 </tr>
 <tr>
 <td align="center">2026</td>
-<td>🎓 Bachelor of Technology / Engineering</td>
-<td>Your College Name</td>
-<td align="center">Computer Science / IT</td>
+<td>🎓 Bachelor of Technology</td>
+<td>Vardhaman College of Engineering</td>
+<td align="center">Computer Science and Data Science / IT</td>
 </tr>
 <tr>
 <td align="center">2024</td>
-<td>⭐ Higher Secondary / Diploma</td>
-<td>Your School Name</td>
-<td align="center">Science & Mathematics</td>
+<td>⭐Diploma</td>
+<td>Govt Polytechnic,Nalgonda</td>
+<td align="center">Computer Science</td>
 </tr>
 </table>
 
