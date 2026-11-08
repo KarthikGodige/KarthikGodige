@@ -1,0 +1,30 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: "30 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch fresh streak card
+        run: |
+          mkdir -p assets
+          curl -fsSL "https://streak-stats.vercel.app/?user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12&t=$(date +%s)" -o assets/streak.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update streak card"
+            git push
+          fi
