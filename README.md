@@ -3,7 +3,7 @@
      Full Stack Developer • Software Engineer
      ============================================================ -->
 
-<div align="center">
+<div align="center"
 
 <!-- Wavy Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1c,50:4a8eff,100:7a5cff&height=220&section=header&text=Karthik%20Godige&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
