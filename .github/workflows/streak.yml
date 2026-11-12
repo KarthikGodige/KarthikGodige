@@ -1,4 +1,4 @@
-name: Update streak card
+ name: Update streak card
 
 on:
   schedule:
