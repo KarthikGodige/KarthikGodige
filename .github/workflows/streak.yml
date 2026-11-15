@@ -1,32 +1,29 @@
-name: Update streak card
+name: Refresh streak card
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch fresh streak card
+      - name: Bump cache-buster on the streak image
         run: |
-          mkdir -p assets
-          curl -fsSL "https://streak-stats.vercel.app/?user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12&t=$(date +%s)" -o assets/streak.svg
+          sed -i "/streak-stats.vercel.app/s/&v=[0-9]*/\&v=$(date +%s)/" README.md
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/streak.svg
+          git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update streak card"
+            git commit -m "chore: refresh streak card"
             git push
           fi
-
-
