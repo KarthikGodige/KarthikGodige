@@ -1,29 +1,30 @@
-name: Refresh streak card
+name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:   # Allows you to click 'Run workflow' manually anytime
 
 jobs:
-  refresh:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Bump cache-buster on the streak image
-        run: |
-          sed -i "/streak-stats.vercel.app/s/&v=[0-9]*/\&v=$(date +%s)/" README.md
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: "user=karthikgodige&theme=radical&background=0b0f1c&ring=4a8eff&fire=4a8eff&currStreakLabel=4a8eff&sideLabels=b0c4e8&dates=8fcbff&border=4a8eff&border_radius=12"
+          path: "profile/streak.svg"
 
-      - name: Commit if changed
+      - name: Commit and push streak stats
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh streak card"
-            git push
-          fi
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats [skip ci]" || exit 0
+          git push
