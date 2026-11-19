@@ -1,15 +1,15 @@
-name: Update streak stats
+name: Update Streak Stats
 
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:   # Allows you to click 'Run workflow' manually anytime
+  workflow_dispatch:   # Allows manual run anytime
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
